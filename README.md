@@ -1,4 +1,4 @@
-# Modify Intsnace Type using Lambda
+# Modify Instance Type using Lambda
 
 ## Introduction:
 AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers, creating workload-aware 
